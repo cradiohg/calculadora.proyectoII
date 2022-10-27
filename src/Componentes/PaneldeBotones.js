@@ -1,4 +1,5 @@
 import Button from "./Boton"
+import "./PaneldeBotones.css"
 
 export default function PaneldeBotones ({clickHandler}) {
 
